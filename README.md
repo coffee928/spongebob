@@ -1,9 +1,5 @@
-
-
 spongebob
 PKM
-...
-...
 
 
 
