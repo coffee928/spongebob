@@ -5,8 +5,8 @@
 ## 前端书籍
 
 ### HTML相关
-* [菜鸟 HTML 教程](http://www.runoob.com/html/html-tutorial.html)
-	
+* [菜鸟 HTML 教程](http://www.runoob.com/html/html-tutorial.html) 
+	- http://www.runoob.com/html/html-layouts.html
 * [HTML5权威指南](https://item.jd.com/11380424.html)
 * [前端工程师手册](https://leohxj.gitbooks.io/front-end-database/content/html-and-css-basic/index.html)
     - 可以当大纲看
