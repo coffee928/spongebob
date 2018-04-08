@@ -25,6 +25,8 @@
 * [图解CSS3:核心技术与案例实战](https://item.jd.com/11494721.html)
 * [精通CSS](https://item.jd.com/10064452.html)
 * [CSS禅意花园](https://e.jd.com/30336812.html)
+* [CSS世界](https://item.jd.com/12262251.html)
+    - p28
 
 ### JavaScript相关
 
@@ -65,8 +67,23 @@
 http://tguide.qq.com/main/battery-blog.htm#blog-list02 
 
 
+* [醉牛前端导航](http://f2er.club/)
+* [阮一峰](http://www.ruanyifeng.com/home.html)
+* [张鑫旭博客](http://www.zhangxinxu.com/)
+    - CSS
+* [前端农民工](https://github.com/fouber/blog)
+* [勾三勾四](http://jiongks.name/)
+* [doyoe](http://www.doyoe.com/)
+* [CSS魔法](http://www.cssmagic.net/)
+* [小胡子哥](http://www.barretlee.com/)
+* [白树](http://peunzhang.cnblogs.com/)
+* [张歆琳前端博客](http://www.jackzxl.net/)
+    - CSS
+
 ## 视频学习
 
+### HTML & CSS
+* [老黑web前端视频](http://space.bilibili.com/12288162/)
 
 
 
