@@ -21,6 +21,8 @@
 * 浮动带来的影响
     - 使元素block化
     - 去空格化
+    
+    https://leohxj.gitbooks.io/front-end-database/html-and-css-basic/css-float.html
 
 ### position
 * position:relative     

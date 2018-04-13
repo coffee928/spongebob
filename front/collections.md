@@ -9,6 +9,9 @@
 * [理解和使用html5shiv](http://www.itread01.com/articles/1478500535.html)
 * [总结伪类与伪元素](http://www.alloyteam.com/2016/05/summary-of-pseudo-classes-and-pseudo-elements/)
 * [CSS伪类与CSS伪元素的区别及由来](https://swordair.com/origin-and-difference-between-css-pseudo-classes-and-pseudo-elements/)
+* [经验分享：CSS浮动(float,clear)通俗讲解](http://www.cnblogs.com/iyangyuan/archive/2013/03/27/2983813.html)
+
+
 
 ## JS
 
