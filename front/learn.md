@@ -67,6 +67,7 @@
 http://tguide.qq.com/main/battery-blog.htm#blog-list02 
 
 
+* [腾讯全端 AlloyTeam](http://www.alloyteam.com/page/0/)
 * [醉牛前端导航](http://f2er.club/)
 * [阮一峰](http://www.ruanyifeng.com/home.html)
 * [张鑫旭博客](http://www.zhangxinxu.com/)
@@ -79,6 +80,7 @@ http://tguide.qq.com/main/battery-blog.htm#blog-list02 
 * [白树](http://peunzhang.cnblogs.com/)
 * [张歆琳前端博客](http://www.jackzxl.net/)
     - CSS
+* [葵中剑](https://swordair.com/)
 
 ## 视频学习
 
