@@ -17,6 +17,11 @@
 * [html5shiv.js](https://github.com/aFarkas/html5shiv)
 
 
+## 工具
+
+* browserify
+* Babel
+
 ## webstorm
 * li*5
 * 列模式

@@ -88,6 +88,9 @@ http://tguide.qq.com/main/battery-blog.htm#blog-list02 
 * [老黑web前端视频](http://space.bilibili.com/12288162/)
 
 
+## 学习项目
+
+* [使用vue2仿网易严选](https://github.com/luoshi0429/vue2-yanxuan)
 
 
  
