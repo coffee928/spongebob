@@ -1,0 +1,37 @@
+/**重置样式，用于清除浏览器的一些默认的设置*/
+
+body, div, dl, dt, ul, li, h1, h2, h3, h4, h5, h6, input, form, a, p, textarea {
+    margin: 0;
+    padding: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+/*去掉列表前的点*/
+ol, ul, li {
+    list-style: none;
+}
+
+/*设置为行级块，且去掉下划线*/
+a {
+    text-decoration: none;
+    display: block;
+}
+
+img {
+    border: none;
+    display: block;
+}
+
+/*ie下清除浮动*/
+.clearfix {
+    zoom: 1;
+}
+
+/*其它浏览器上清除浮云，利用伪元素*/
+.clearfix::after {
+    display: block;
+    clear: both;
+    content: "";
+    visibility: hidden;
+    height: 0;
+}
